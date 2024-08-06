@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedora em formação | Apaixonado por tecnologia e programação<br>🎓 Atualmente cursando residência em um programa de formação de programadores.</p>
+<p align="left">💻 Desenvolvedora em formação | Apaixonada por tecnologia <br>🎓 Atualmente cursando residência em um programa de formação de programadores.</p>
 
 ###
 
