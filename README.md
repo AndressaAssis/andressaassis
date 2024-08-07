@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedora em formação | Apaixonada por tecnologia <br>🎓 Atualmente cursando residência em um programa de formação de programadores.</p>
+<p align="left">💻 Desenvolvedor em formação | Apaixonado por tecnologia e programação<br>🎓 Atualmente cursando residência em um programa de formação de programadores.</p>
 
 ###
 
@@ -49,6 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
