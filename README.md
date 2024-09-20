@@ -1,41 +1,26 @@
-<h1 align="left">
-### Hello, I'm Andressa Assis Jandre👋</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 ###
 
-<p align="left">💻 Developer in training | Passionate about technology and programming <br>🎓 Currently studying residency in a programmer training program.</p>
+<h4 align="center">My name is Andressa Assis Jandre and I'm training to be a fullstack developer.</h4>
 
 ###
 
-<h2 align="left">🌱 I am learning:</h2>
+<h5 align="center">Here you will find a sample of my most recent projects, where I used different technologies to develop modern and functional web applications. Some of the technologies I'm learning are: Java, Database, HTML, CSS, JavaScript and React Native.</h5>
 
 ###
 
-<p align="left">- Programming languages ​​(JavaScript, Python, etc.)<br>- Web development (HTML, CSS, React)<br>- Database (SQL, NoSQL)</p>
+<h5 align="center">Among the projects I shared, you will find applications that range from personalized screens to projects with authentication as I learn. I always try to stay up to date with market trends and use the best development practices to create efficient and high-quality solutions.</h5>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<h5 align="center">Thank you for visiting!</h5>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndressaAssis.AndressaAssis&"  />
 </div>
-
-###
-
-<p align="left">👯 I am open to collaborations on interesting projects and challenges.</p>
 
 ###
 
@@ -50,24 +35,12 @@
   <a href="https://www.linkedin.com/in/andressa-assis-jandre-289b472b9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@andressaassisj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/FwK9RBsX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
   <a href="https://www.instagram.com/andressaassisj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="mailto:andressaassisjandre@gmail.com" target="_blank">
+  <a href="maitlto:andressaassisjandre@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndressaAssis.AndressaAssis&"  />
 </div>
 
 ###
