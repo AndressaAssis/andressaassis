@@ -1,17 +1,17 @@
 <h1 align="left">
-### Olá, eu sou Andressa Assis Jandre👋</h1>
+### Hello, I'm Andressa Assis Jandre👋</h1>
 
 ###
 
-<p align="left">💻 Desenvolvedora em formação | Apaixonado por tecnologia e programação<br>🎓 Atualmente cursando residência em um programa de formação de programadores.</p>
+<p align="left">💻 Developer in training | Passionate about technology and programming <br>🎓 Currently studying residency in a programmer training program.</p>
 
 ###
 
-<h2 align="left">🌱 Estou aprendendo:</h2>
+<h2 align="left">🌱 I am learning:</h2>
 
 ###
 
-<p align="left">- Linguagens de programação (JavaScript, Python, etc.)<br>- Desenvolvimento web (HTML, CSS, React)<br>- Banco de dados (SQL, NoSQL)</p>
+<p align="left">- Programming languages ​​(JavaScript, Python, etc.)<br>- Web development (HTML, CSS, React)<br>- Database (SQL, NoSQL)</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">👯 Estou aberta a colaborações em projetos e desafios interessantes.</p>
+<p align="left">👯 I am open to collaborations on interesting projects and challenges.</p>
 
 ###
 
@@ -53,13 +53,13 @@
   <a href="https://www.youtube.com/@andressaassisj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://discord.com/invite/andressaassisj" target="_blank">
+  <a href="https://discord.com/andressaassisj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/andressaassisj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+  <a href="mailto:andressaassisjandre@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
