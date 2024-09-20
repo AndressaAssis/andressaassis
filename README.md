@@ -53,7 +53,7 @@
   <a href="https://www.youtube.com/@andressaassisj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="1165295048842285200" target="_blank">
+  <a href="https://discord.gg/FwK9RBsX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/andressaassisj/" target="_blank">
