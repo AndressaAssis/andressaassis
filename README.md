@@ -2,15 +2,19 @@
 
 ###
 
-<h4 align="center">My name is Andressa Assis Jandre and I'm training to be a fullstack developer.</h4>
+<h4 align="center">My name is Andressa Assis Jandre, and I am currently specializing in Quality Assurance (QA).</h4>
 
 ###
 
-<h5 align="center">Here you will find a sample of my most recent projects, where I used different technologies to develop modern and functional web applications. Some of the technologies I'm learning are: Java, Database, HTML, CSS, JavaScript and React Native.</h5>
+<h5 align="center">Initially training to be a fullstack developer, I discovered my passion for QA during my studies and final project in a residency program.</h5>
 
 ###
 
-<h5 align="center">Among the projects I shared, you will find applications that range from personalized screens to projects with authentication as I learn. I always try to stay up to date with market trends and use the best development practices to create efficient and high-quality solutions.</h5>
+<h5 align="center">Here, you will find a variety of projects that showcase my journey in both development and QA. While I have experience with technologies like Java, Databases, HTML, CSS, JavaScript, and React Native, my focus is now on ensuring software quality through thorough testing, automation, and best practices.</h5>
+
+###
+
+<h5 align="center">I am dedicated to continuous learning and improvement, aiming to create robust and reliable solutions that meet user expectations.</h5>
 
 ###
 
