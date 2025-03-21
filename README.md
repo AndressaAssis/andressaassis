@@ -1,30 +1,78 @@
-<h1 align="center">Welcome to my GitHub profile!</h1>
+<h1 align="center">🚀 Welcome to my GitHub profile! 🚀</h1>
 
 ###
 
-<h4 align="center">My name is Andressa Assis Jandre, and I am currently specializing in Quality Assurance (QA).</h4>
+<h3 align="center">My name is Andressa Assis Jandre, and I am currently specializing in Quality Assurance (QA).</h3>
 
 ###
 
-<h5 align="center">Initially training to be a fullstack developer, I discovered my passion for QA during my studies and final project in a residency program.</h5>
+<h4 align="center">
+  Initially training to be a fullstack developer, I discovered my passion for QA during my studies and final project in a residency program.
+</h4>
 
 ###
 
-<h5 align="center">Here, you will find a variety of projects that showcase my journey in both development and QA. While I have experience with technologies like Java, Databases, HTML, CSS, JavaScript, and React Native, my focus is now on ensuring software quality through thorough testing, automation, and best practices.</h5>
+<h4 align="center">
+  Here, you will find a variety of projects that showcase my journey in both development and QA. While I have experience with technologies like Java, Databases, HTML, CSS, JavaScript, and React Native, my focus is now on ensuring software quality through thorough testing, automation, and best practices.
+</h4>
 
 ###
 
-<h5 align="center">I am dedicated to continuous learning and improvement, aiming to create robust and reliable solutions that meet user expectations.</h5>
+<h4 align="center">
+  Here, you'll find projects that reflect my evolution in the field of QA, including automated web, API and, in the future, mobile testing.
+</h4>
 
 ###
 
-<h5 align="center">Thank you for visiting!</h5>
+<h2 align="center">🛠️ Tecnologias e Ferramentas 🛠️</h2>
+
+###
+
+<h3 align="center">🚀 Linguagens:</h3>
+<p align="center">
+  Python • Java • JavaScript
+</p>
+
+###
+
+<h3 align="center">🔎 Testes Automatizados:</h3>
+<p align="center">
+  <strong>Web:</strong> Selenium, Robot Framework <br>
+  <strong>API:</strong> Postman, Newman <br>
+  <strong>E2E:</strong> Cypress, Playwright (aprendendo) <br>
+  <strong>Carga e Performance:</strong> JMeter
+</p>
+
+###
+
+<h3 align="center">📌 Gerenciamento de Projetos:</h3>
+<p align="center">
+  Jira • Trello • Azure DevOps
+</p>
+
+###
+
+<h3 align="center">💾 Banco de Dados:</h3>
+<p align="center">
+  MySQL • SQL Server
+</p>
+
+###
+
+<h3 align="center">⚙️ CI/CD e Versionamento:</h3>
+<p align="center">
+  GitHub Actions • GitLab • Git
+</p>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AndressaAssis.AndressaAssis&"  />
 </div>
+
+###
+
+<h2 align="center">📩 Como me encontrar 📩</h2>
 
 ###
 
@@ -39,6 +87,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 ###
 
