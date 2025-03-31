@@ -33,9 +33,9 @@
 
 <h3 align="center">🔎 Automated testing:</h3>
 <p align="center">
-  <strong>Web:</strong> Selenium, Robot Framework <br>
+  <strong>Web:</strong> Selenium, Robot Framework (learning) <br>
   <strong>API:</strong> Postman <br>
-  <strong>E2E:</strong> Cypress (aprendendo) <br>
+  <strong>E2E:</strong> Cypress (learning) <br>
   <strong>Load and Performance:</strong> JMeter
 </p>
 
